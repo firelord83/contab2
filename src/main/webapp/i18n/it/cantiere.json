@@ -1,0 +1,27 @@
+{
+  "contab2App": {
+    "cantiere": {
+      "home": {
+        "title": "Cantieres",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Cantiere",
+        "createOrEditLabel": "Genera o modifica un Cantiere",
+        "notFound": "No Cantieres found"
+      },
+      "created": "&Egrave; stato generato un nuovo Cantiere con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Cantiere identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Cantiere con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Cantiere {{ id }}?"
+      },
+      "detail": {
+        "title": "Cantiere"
+      },
+      "id": "ID",
+      "nomeCantiere": "Nome Cantiere",
+      "indirizzo": "Indirizzo",
+      "afattura": "Afattura",
+      "pfattura": "Pfattura"
+    }
+  }
+}

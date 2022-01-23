@@ -1,0 +1,9 @@
+{
+  "contab2App": {
+    "Stato": {
+      "null": "",
+      "NON_PAGATA": "NON_PAGATA",
+      "PAGATA": "PAGATA"
+    }
+  }
+}

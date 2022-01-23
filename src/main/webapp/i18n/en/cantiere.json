@@ -1,0 +1,27 @@
+{
+  "contab2App": {
+    "cantiere": {
+      "home": {
+        "title": "Cantieres",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Cantiere",
+        "createOrEditLabel": "Create or edit a Cantiere",
+        "notFound": "No Cantieres found"
+      },
+      "created": "A new Cantiere is created with identifier {{ param }}",
+      "updated": "A Cantiere is updated with identifier {{ param }}",
+      "deleted": "A Cantiere is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Cantiere {{ id }}?"
+      },
+      "detail": {
+        "title": "Cantiere"
+      },
+      "id": "ID",
+      "nomeCantiere": "Nome Cantiere",
+      "indirizzo": "Indirizzo",
+      "afattura": "Afattura",
+      "pfattura": "Pfattura"
+    }
+  }
+}
