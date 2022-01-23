@@ -1,0 +1,32 @@
+{
+  "contab2App": {
+    "fatturePassivo": {
+      "home": {
+        "title": "FatturePassivos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Fatture Passivo",
+        "createOrEditLabel": "Genera o modifica un Fatture Passivo",
+        "notFound": "No Fatture Passivos found"
+      },
+      "created": "&Egrave; stato generato un nuovo Fatture Passivo con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Fatture Passivo identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Fatture Passivo con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Fatture Passivo {{ id }}?"
+      },
+      "detail": {
+        "title": "Fatture Passivo"
+      },
+      "id": "ID",
+      "numeroFattura": "Numero Fattura",
+      "ragSociale": "Rag Sociale",
+      "imponibile": "Imponibile",
+      "iva": "Iva",
+      "stato": "Stato",
+      "dataEmissione": "Data Emissione",
+      "dataPagamento": "Data Pagamento",
+      "fornitore": "Fornitore",
+      "cantiere": "Cantiere"
+    }
+  }
+}

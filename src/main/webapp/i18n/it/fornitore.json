@@ -1,0 +1,27 @@
+{
+  "contab2App": {
+    "fornitore": {
+      "home": {
+        "title": "Fornitores",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Fornitore",
+        "createOrEditLabel": "Genera o modifica un Fornitore",
+        "notFound": "No Fornitores found"
+      },
+      "created": "&Egrave; stato generato un nuovo Fornitore con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Fornitore identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Fornitore con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Fornitore {{ id }}?"
+      },
+      "detail": {
+        "title": "Fornitore"
+      },
+      "id": "ID",
+      "nomeFornitore": "Nome Fornitore",
+      "indirizzo": "Indirizzo",
+      "tipo": "Tipo",
+      "fattura": "Fattura"
+    }
+  }
+}
